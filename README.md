@@ -13,7 +13,7 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   <br>
   <ol>
     <li><strong>Name:</strong> Alishba Abdul.</li>
-    <li><strong>Hobby:</strong> Collecting old coins.</li>
+    <li><strong>Hobby:</strong> Coin collecting.</li>
     <li><strong>Friend:</strong> AI.</li>
     <li><strong>Fact:</strong> I prefer working alone.</li>
   </ol>
