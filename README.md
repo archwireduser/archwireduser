@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=I+don't+play+games%2C+I+reverse+them.;Shells+don't+scare+me.+They+respond." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF33&center=true&vCenter=true&width=550&lines=I+don't+play+games%2C+I+reverse+them.;Shells+don't+scare+me.+They+respond." alt="Typing SVG" />
 </p>
+
 
 ## about me: 💻
 I'm neooverride, a student. I focus on reverse engineering and low-level systems. My goal is to make money and go deeper into computers.
@@ -13,6 +14,7 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   <br>
   <ol>
     <li><strong>Name:</strong> Alishba Abdul.</li>
+    <li><strong>From:</strong> Pakistan.</li>
     <li><strong>Hobby:</strong> Coin collecting.</li>
     <li><strong>Friend:</strong> AI.</li>
     <li><strong>Fact:</strong> I prefer working alone.</li>
