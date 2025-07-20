@@ -20,13 +20,3 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   </ol>
 </details>
 
-## Socials: 💻
-
-<p align="center">
-  <a href="https://medium.com/neooverride" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="M">
-  </a>
-  <a href="https://x.com/neooverrid16697" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
-  </a>
-</p>
