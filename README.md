@@ -26,8 +26,18 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./burp-suite.png" alt="burp-suite" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmap.png" alt="nmap" width="40"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmapp.png" alt="nmap" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./wireshark.png" alt="wireshark" width="40"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./Wireshark_icon_new.png" alt="wireshark" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./C++_logo.png" alt="wireshark" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./icons8-assembly-96.png" alt="wireshark" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./Lua-Logo.svg.png" alt="wireshark" width="40"/>
+
 </p>
+
+
+
 
