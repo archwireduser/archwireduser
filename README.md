@@ -20,12 +20,18 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   </ol>
 </details>
 
-## Arsenal: 
+## Arsenal: 🛡️
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./cheat-engine.png" alt="Cheat Engine" width="50"/>
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./burp-suite.png" alt="burp-suite" width="50"/>
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./hashcat.jpeg" alt="hashcat" width="50"/>
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./system-informer.jpeg" alt="system-informer" width="50"/>
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmap.png" alt="nmap" width="50"/>
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./wireshark.png" alt="wireshark" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./cheat-engine.png" alt="Cheat Engine" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./burp-suite.png" alt="burp-suite" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./hashcat.jpeg" alt="hashcat" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./system-informer.jpeg" alt="system-informer" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmap.png" alt="nmap" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./wireshark.png" alt="wireshark" width="40"/>
 </p>
+
