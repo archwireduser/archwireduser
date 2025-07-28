@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DADADA&center=true&vCenter=true&width=550&lines=I+don't+play+games%2C+I+reverse+them.;I+can+analyze+memory+for+hours." alt="Typing SVG" />
 </p>
 
-## about me: 💻
+## About-Me: 💻
 I'm neooverride, a student. I focus on reverse engineering and low-level systems. My goal is to make money and go deeper into computers.
 <details>
   <summary>A bit more:</summary>
@@ -20,3 +20,12 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   </ol>
 </details>
 
+## Arsenal: 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./cheat-engine.png" alt="Cheat Engine" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./burp-suite.png" alt="burp-suite" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./hashcat.jpeg" alt="hashcat" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./system-informer.jpeg" alt="system-informer" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmap.png" alt="nmap" width="50"/>
+  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./wireshark.png" alt="wireshark" width="50"/>
+</p>
