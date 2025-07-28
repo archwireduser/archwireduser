@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DADADA&center=true&vCenter=true&width=550&lines=I+don't+play+games%2C+I+reverse+them.;I+can+analyze+memory+for+hours." alt="Typing SVG" />
 </p>
 
-
 ## about me: 💻
 I'm neooverride, a student. I focus on reverse engineering and low-level systems. My goal is to make money and go deeper into computers.
 <details>
