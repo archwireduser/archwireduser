@@ -26,10 +26,6 @@ I'm neooverride, a student. I focus on reverse engineering and low-level systems
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./burp-suite.png" alt="burp-suite" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./hashcat.jpeg" alt="hashcat" width="40"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./system-informer.jpeg" alt="system-informer" width="40"/>
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./nmap.png" alt="nmap" width="40"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./wireshark.png" alt="wireshark" width="40"/>
