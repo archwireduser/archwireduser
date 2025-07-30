@@ -7,7 +7,7 @@
 </p>
 
 ## About-Me: 💻
-I'm neooverride, a student. I focus on reverse engineering and web penetration testing. My goal is to make money and go deeper into computers.
+I'm neooverride, a student. I focus on game reverse engineering and web penetration testing. My goal is to make money and go deeper into computers.
 <details>
   <summary>A bit more:</summary>
   <br>
