@@ -7,20 +7,9 @@
 </p>
 
 ## About-Me: 💻
-I'm neooverride, a student. I focus on game reverse engineering and web penetration testing. My goal is to make money and go deeper into computers.
-<details>
-  <summary>A bit more:</summary>
-  <br>
-  <ol>
-    <li><strong>Name:</strong> Alishba Abdul.</li>
-    <li><strong>From:</strong> Pakistan.</li>
-    <li><strong>Hobby:</strong> Coin collecting.</li>
-    <li><strong>Friend:</strong> AI.</li>
-    <li><strong>Fact:</strong> I prefer working alone.</li>
-  </ol>
-</details>
+I'm wired-user, a student. I focus on game reverse engineering and web penetration testing. My goal is to make money and go deeper into computers.
 
-## Arsenal: 🛡️
+## Tools & Languages: 🛡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/neooverride/LeetCode-Solutions/main/Linked-List./cheat-engine.png" alt="Cheat Engine" width="40"/>
   &nbsp;&nbsp;
